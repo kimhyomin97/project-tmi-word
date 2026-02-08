@@ -85,3 +85,8 @@ Dockerfile
 judge_korean.json
 test_request.json
 
+/docs
+
+*.csv
+*.xslx
+*.txt
